@@ -12,5 +12,5 @@
 - ⚡ Fun fact: I am obsessed with patterns, systems, and digital assets.
 
 
-- 🤝 My #HNS Domain Portfolio: https://www.niami.io/p/b97bb30c678c350d7c6160512d16e8d7 (Feel free to make some offers to own my domains)
+- 🤝 My HNS Domain Portfolio: https://www.niami.io/p/b97bb30c678c350d7c6160512d16e8d7 (Feel free to make some offers to own my domains)
 
