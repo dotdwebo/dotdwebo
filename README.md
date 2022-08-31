@@ -14,3 +14,8 @@
 
 ***
 - 📫 How to reach me: iamdwebo@proton.me | https://twitter.com/dotdwebo
+
+***
+
+I made a PDF and ODT version of Handshake Project Design Notes (Think of it like the whitepaper)
+[Handshake Project Design Notes](https://github.com/dotdwebo/Handshake-Project-Design-Notes)
