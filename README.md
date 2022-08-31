@@ -10,6 +10,7 @@
 - 💬 My hobbies (illustrating, playing music, learning neuroscience, gaming, and doing social experiments).
 - 📫 How to reach me: iamdwebo@proton.me | https://twitter.com/dotdwebo
 - ⚡ Fun fact: I am obsessed with patterns, systems, micropreneurship, and digital assets.
+- 💻 I'm more interested in freelancing work than 9-to-5 work. (Even though freelancing can sometimes make me work 9-to-9. LoL)
 
 
 - 🤝 My HNS Domain Portfolio: https://www.niami.io/p/b97bb30c678c350d7c6160512d16e8d7 (Feel free to make some offers to own my domains)
