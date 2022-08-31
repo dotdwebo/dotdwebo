@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Dwebo
 
-![dwebonewversion](/public/github_banner.png)
+![dwebonewversion](/public/ghbanner.png)
 
 
 
