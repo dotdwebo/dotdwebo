@@ -20,10 +20,11 @@
   - gaming, and 
   - doing social experiments
 ***
-### 🤝 My HNS Top-Level Domain (TLD) Portfolio: https://www.niami.io/p/b97bb30c678c350d7c6160512d16e8d7 (Feel free to make some offers to buy my domains)
+### 🤝 My HNS Top-Level Domain (TLD) Portfolio: 
+- https://www.niami.io/p/b97bb30c678c350d7c6160512d16e8d7 (Feel free to make some offers to buy my domains)
 
 ***
-- 📫 How to reach me: iamdwebo@proton.me | https://twitter.com/dotdwebo
+### 📫 How to reach me: iamdwebo@proton.me | https://twitter.com/dotdwebo
 
 ***
 
