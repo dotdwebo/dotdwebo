@@ -5,8 +5,8 @@
 
 
 - 🔭 I’m currently working on myself. 
-- 🌱 I’m currently learning Handshake:
-  - (P2P Root Naming System and Certificate Authority | https://handshake.org), 
+- 🌱 I’m currently learning: 
+  - Handshake (P2P Root Naming System and Certificate Authority | https://handshake.org), 
   - NodeJS, 
   - TailwindCSS, and 
   - ReactJS.
