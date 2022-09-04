@@ -1,6 +1,6 @@
 ### Welcome to My Laboratory
 
-![dwebonewversion](/public/ghbanner.png)
+![dwebonewversion](/public/lab.png)
 
 
 
