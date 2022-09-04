@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Dwebo
 
-[dwebonewversion](https://twitter.com/i/status/1566328339819679744)
+[dwebonewversion](/public/preview.png)
 
 
 
