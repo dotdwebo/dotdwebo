@@ -11,7 +11,13 @@
   - TailwindCSS (https://tailwindcss.com), and 
   - ReactJS (https://reactjs.org).
 ***
-### 👯 I’m looking to collaborate on building an experimental economics system where everyone can build a permissionless space to work together without depending on centralized authority. (It can be an idea or concept, algorithm, flowchart, or code)
+### 👯 I’m looking to collaborate on:
+building an experimental economics system where everyone can build a permissionless space to work together without depending on centralized authority. It can be:
+- an idea, 
+- a concept, 
+- algorithms, 
+- flowcharts, or 
+- codes
 ***
 ### 💬 My hobbies:
   - illustrating, 
