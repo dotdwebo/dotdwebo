@@ -1,6 +1,6 @@
 ### Welcome to My Laboratory
 
-![dwebonewversion](/public/lab.png)
+![dwebonewversion](/public/lab1.png)
 
 
 
