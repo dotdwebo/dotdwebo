@@ -3,30 +3,6 @@
 ![dwebonewversion](/public/lab.png)
 
 
-
-
-### 🌱  I’m currently learning: 
-  - Handshake (P2P Root Naming System and Certificate Authority | https://handshake.org), 
-  - NodeJS (https://nodejs.org), 
-  - TailwindCSS (https://tailwindcss.com), and 
-  - ReactJS (https://reactjs.org).
-  - Ubuntu OS (https://ubuntu.com).
-***
-### 👯 I’m looking to collaborate on:
-building an experimental economics system where everyone can build a permissionless space to work together without depending on centralized authority. It can be:
-- an idea, 
-- a concept, 
-- algorithms, 
-- flowcharts, or 
-- codes
-***
-### 💬 My hobbies:
-  - illustrating, 
-  - playing music, 
-  - learning neuroscience, 
-  - gaming, and 
-  - doing social experiments
-***
 ### 🤝 My HNS Top-Level Domain (TLD) Portfolio: 
 - https://www.niami.io/p/b97bb30c678c350d7c6160512d16e8d7 (Feel free to make some offers to buy my domains)
 
