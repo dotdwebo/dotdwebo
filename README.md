@@ -7,9 +7,7 @@
 - https://www.niami.io/p/b97bb30c678c350d7c6160512d16e8d7 (Feel free to make some offers to buy my domains)
 
 ***
-### 📫 How to reach me: iamdwebo@proton.me | https://twitter.com/dotdwebo
 
-***
 
 I made a PDF and ODT version of Handshake Project Design Notes (Think of it like the whitepaper).
 
