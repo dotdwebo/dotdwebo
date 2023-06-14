@@ -3,8 +3,7 @@
 ![dwebonewversion](/public/lab.png)
 
 
-### 🤝 My HNS Top-Level Domain (TLD) Portfolio: 
-- https://www.niami.io/p/b97bb30c678c350d7c6160512d16e8d7 (Feel free to make some offers to buy my domains)
+
 
 ***
 
